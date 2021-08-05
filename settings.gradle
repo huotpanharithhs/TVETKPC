@@ -1,0 +1,2 @@
+rootProject.name = "TVET"
+include ':app'

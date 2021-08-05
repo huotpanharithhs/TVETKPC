@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TVET</string>
+    <string name="site_url">https://ppenhchet.blogspot.com</string>
+    <string name="no_internet">No Internet</string>
+    <string name="check_network">Check Network Again</string>
+    <string name="retry">Try Again</string>
+</resources>
